@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## Hello!🤗
 
-I'm Uc, a student pursuing B.Tech in Information Technology.
+I'm Upasana Chatterjee, a student pursuing B.Tech in Information Technology.
 
 Let's connect and create something amazing together!
 
