@@ -27,7 +27,7 @@ Let's connect and create something amazing together!
 📌Currently, I'm exploring various technologies and contributing to open-source projects. 
 
 📌Open to discussions, collaborations, and learning from mistakes (lots of them).  
- https://skillicons.dev/icons?i=html,css,c,js&perline=8
+
 
 
 ## Skills & Technologies
