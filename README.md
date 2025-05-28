@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
  ## Hello!🤗
 
-I'm Uc, a student pursuing B.Tech in Information Technology.
+I'm Upasana Chatterjee, a student pursuing B.Tech in Information Technology.
 
 Let's connect and create something amazing together!
 
@@ -30,11 +30,12 @@ Let's connect and create something amazing together!
 
 
 
-## Skills & Technologies
+## Current Skills:
 
-html,css,c,js
 
-## Recent Activity
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,js&perline=8)](https://skillicons.dev)
+
+## Recent Activity:
 
 Here are some of my latest activities on GitHub:
 - Updated [IndusAI](https://github.com/UC2255/IndusAI) repository.  
